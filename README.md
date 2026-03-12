@@ -1,6 +1,6 @@
 # Heitor-JorgeHI GUYS!! Eu sou o Heitor Jorge <br>
 Aluno de Desenvolvimento de Sistemas <br>
-👩‍💻 Estudo TI 👩‍💻
+👩‍💻 Estudante de TI 👩‍💻
 <div>
   <a href="https://github.com/HeitorJorge019">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeitorJorge019&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
